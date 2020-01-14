@@ -22,3 +22,5 @@ let getTip = function(total, tip = .2) {
 
 let tipPercent = getTip(40, .2)
     console.log(tipPercent)
+
+    // this is a new comment
